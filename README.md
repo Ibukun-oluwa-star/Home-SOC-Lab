@@ -1,4 +1,4 @@
-# HHome Security Operations Centre (SOC) Lab
+# Home Security Operations Centre (SOC) Lab
 This project is a home SOC lab built using virtual machines to simulate real-world cyber security monitoring and incident detection. The lab includes an Ubuntu server running Splunk SIEM, a Windows machine generating logs, and a Kali Linux machine used to simulate attacks. The goal of this project is security monitoring, log analysis, and incident response.
 
 Lab Architecture
