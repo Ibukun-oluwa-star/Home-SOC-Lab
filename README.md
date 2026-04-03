@@ -8,6 +8,7 @@ Windows 11 – Log generating machine
 Kali Linux – Attacker machine
 Logs from the Windows machine are forwarded to Splunk where security events are monitored and analysed.
 
+## Lab Architecture
 
-
+![SOC Lab Diagram](SOC Diagram.drawio.png)
 
