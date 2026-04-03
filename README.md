@@ -10,5 +10,5 @@ Logs from the Windows machine are forwarded to Splunk where security events are 
 
 ## Lab Architecture
 
-![SOC Lab Diagram](SOC Diagram.drawio.png)
+![SOC Lab Diagram](images/SOC Diagram.drawio.png)
 
