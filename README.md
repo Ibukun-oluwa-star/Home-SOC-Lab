@@ -11,3 +11,18 @@ Logs from the Windows machine are forwarded to Splunk where security events are 
 ## Lab Architecture
 
 ![SOC Lab Diagram](images/soc-lab-diagram.png)
+
+## Tools Used
+- UTM
+- Ubuntu 24.04
+- Windows 11
+- Kali Linux
+- Splunk SIEM
+- Nmap
+- Wireshark
+
+## Incidents Simulated
+- Failed login attempts
+- Port scanning
+- New user account creation
+- Malware detection
